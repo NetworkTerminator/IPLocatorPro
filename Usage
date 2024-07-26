@@ -1,0 +1,15 @@
+Usage
+Run the tool with the desired options:
+
+For single IP lookup:
+python3 ip_locatorpro.py -s <IP_ADDRESS>
+
+For batch processing:
+python3 ip_locatorpro.py -b <FILE_WITH_IP_ADDRESSES> -o <OUTPUT_FILE>
+
+Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
